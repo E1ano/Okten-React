@@ -1,8 +1,14 @@
+import Users from "./components/Users";
+import Comments from "./components/Comments";
+import Cars from "./components/Cars";
 
 function App() {
   return (
-    <div className="App">
-    </div>
+    <>
+        {/*<Users/>*/}
+        {/*<Comments/>*/}
+        <Cars/>
+    </>
   );
 }
 

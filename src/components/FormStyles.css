@@ -1,0 +1,37 @@
+form {
+    display: flex;
+    justify-content: center;
+    column-gap: 30px;
+    margin: 40px auto;
+}
+
+form input {
+    flex: 0 1 10%;
+    padding: 10px;
+    position: relative;
+}
+
+form div {
+    color: red;
+    font-size: 12px;
+    top: 90px;
+    position: absolute;
+}
+
+#error-1 {
+    left: 400px;
+}
+
+#error-2 {
+    left: 650px;
+}
+
+#error-3 {
+    right: 600px;
+}
+
+form button {
+    width: 10%;
+    text-transform: uppercase;
+}
+

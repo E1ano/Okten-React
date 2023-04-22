@@ -10,7 +10,7 @@ const Post = () => {
         placeholderService.getPostById(location.state)
             .then(data => data.data)
             .then(data => setPost(data));
-    }, [])
+    }, [location.state])
 
     return (
         <div>

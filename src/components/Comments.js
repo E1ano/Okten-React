@@ -15,11 +15,12 @@ const Comments = () => {
         <div>
             <h2>Comments:</h2>
             <Outlet/>
+            <br/><br/>
             {
                 comments?.map(item => {
                     return (
                         <div key={item.id}>
-                            <Link to={`/posts/${item.id.toString()}`} state={item.id}>{JSON.stringify(item)}</Link>
+                            <Link to={`posts/${item.id.toString()}`} state={item.id}>{JSON.stringify(item)}</Link>
                         </div>
                     )
                 })

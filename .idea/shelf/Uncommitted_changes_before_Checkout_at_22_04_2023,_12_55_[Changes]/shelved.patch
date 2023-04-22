@@ -1,0 +1,60 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<project version=\"4\">\n  <component name=\"AutoImportSettings\">\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\n  </component>\n  <component name=\"ChangeListManager\">\n    <list default=\"true\" id=\"3bbed848-5ec5-4109-9033-240f2d9e5415\" name=\"Changes\" comment=\"delete garbage\">\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/package-lock.json\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/package-lock.json\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/package.json\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/package.json\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/public/index.html\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/public/index.html\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/src/App.js\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/src/App.js\" afterDir=\"false\" />\n    </list>\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\n  </component>\n  <component name=\"Git.Settings\">\n    <option name=\"RECENT_BRANCH_BY_REPOSITORY\">\n      <map>\n        <entry key=\"$PROJECT_DIR$\" value=\"hw-1\" />\n        <entry key=\"$PROJECT_DIR$\" value=\"master\" />\n      </map>\n    </option>\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\n  </component>\n  <component name=\"MarkdownSettingsMigration\">\n    <option name=\"stateVersion\" value=\"1\" />\n  </component>\n  <component name=\"ProjectId\" id=\"2OHMfycZkcdndSFA5AkruN5Vuf9\" />\n  <component name=\"ProjectLevelVcsManager\">\n    <ConfirmationsSetting value=\"1\" id=\"Add\" />\n  </component>\n  <component name=\"ProjectViewState\">\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\n    <option name=\"showLibraryContents\" value=\"true\" />\n  </component>\n  <component name=\"PropertiesComponent\">{\n  &quot;keyToString&quot;: {\n    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,\n    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,\n    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,\n    &quot;last_opened_file_path&quot;: &quot;/Users/marko/Documents/Okten/okten-react&quot;,\n    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,\n    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,\n    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,\n    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,\n    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,\n    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;\n  }\n}</component>\n  <component name=\"RecentsManager\">\n    <key name=\"CopyFile.RECENT_KEYS\">\n      <recent name=\"$PROJECT_DIR$\" />\n    </key>\n  </component>\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\n  <component name=\"TaskManager\">\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\n      <changelist id=\"3bbed848-5ec5-4109-9033-240f2d9e5415\" name=\"Changes\" comment=\"\" />\n      <created>1681213160180</created>\n      <option name=\"number\" value=\"Default\" />\n      <option name=\"presentableId\" value=\"Default\" />\n      <updated>1681213160180</updated>\n      <workItem from=\"1681213165410\" duration=\"37000\" />\n      <workItem from=\"1681215053212\" duration=\"2241000\" />\n      <workItem from=\"1681375768782\" duration=\"7416000\" />\n      <workItem from=\"1681748316206\" duration=\"12497000\" />\n      <workItem from=\"1681834781587\" duration=\"11519000\" />\n      <workItem from=\"1681919990996\" duration=\"2841000\" />\n    </task>\n    <task id=\"LOCAL-00001\" summary=\"default\">\n      <created>1681215325579</created>\n      <option name=\"number\" value=\"00001\" />\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1681215325579</updated>\n    </task>\n    <task id=\"LOCAL-00002\" summary=\"hw-1 done\">\n      <created>1681215554256</created>\n      <option name=\"number\" value=\"00002\" />\n      <option name=\"presentableId\" value=\"LOCAL-00002\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1681215554256</updated>\n    </task>\n    <task id=\"LOCAL-00003\" summary=\"hw-1 done\">\n      <created>1681215652793</created>\n      <option name=\"number\" value=\"00003\" />\n      <option name=\"presentableId\" value=\"LOCAL-00003\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1681215652793</updated>\n    </task>\n    <task id=\"LOCAL-00004\" summary=\"hw-1 done\">\n      <created>1681216138670</created>\n      <option name=\"number\" value=\"00004\" />\n      <option name=\"presentableId\" value=\"LOCAL-00004\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1681216138670</updated>\n    </task>\n    <task id=\"LOCAL-00005\" summary=\"hw-1 done\">\n      <created>1681217237379</created>\n      <option name=\"number\" value=\"00005\" />\n      <option name=\"presentableId\" value=\"LOCAL-00005\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1681217237379</updated>\n    </task>\n    <task id=\"LOCAL-00006\" summary=\"hw-2 done\">\n      <created>1681387198442</created>\n      <option name=\"number\" value=\"00006\" />\n      <option name=\"presentableId\" value=\"LOCAL-00006\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1681387198442</updated>\n    </task>\n    <task id=\"LOCAL-00007\" summary=\"hw-2 done\">\n      <created>1681387218796</created>\n      <option name=\"number\" value=\"00007\" />\n      <option name=\"presentableId\" value=\"LOCAL-00007\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1681387218796</updated>\n    </task>\n    <task id=\"LOCAL-00008\" summary=\"hw-2 done\">\n      <created>1681748535296</created>\n      <option name=\"number\" value=\"00008\" />\n      <option name=\"presentableId\" value=\"LOCAL-00008\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1681748535296</updated>\n    </task>\n    <option name=\"localTasksCounter\" value=\"9\" />\n    <servers />\n  </component>\n  <component name=\"TypeScriptGeneratedFilesManager\">\n    <option name=\"version\" value=\"3\" />\n  </component>\n  <component name=\"VcsManagerConfiguration\">\n    <MESSAGE value=\"default\" />\n    <MESSAGE value=\"hw-1 done\" />\n    <MESSAGE value=\"hw-2 done\" />\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"hw-2 done\" />\n  </component>\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision 5674e92f63a31e961c6150ecbe9882133035a9f4)
++++ b/.idea/workspace.xml	(date 1681928320064)
+@@ -4,12 +4,8 @@
+     <option name="autoReloadType" value="SELECTIVE" />
+   </component>
+   <component name="ChangeListManager">
+-    <list default="true" id="3bbed848-5ec5-4109-9033-240f2d9e5415" name="Changes" comment="delete garbage">
++    <list default="true" id="3bbed848-5ec5-4109-9033-240f2d9e5415" name="Changes" comment="hw-3 react-js">
+       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+     </list>
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+@@ -68,7 +64,8 @@
+       <workItem from="1681375768782" duration="7416000" />
+       <workItem from="1681748316206" duration="12497000" />
+       <workItem from="1681834781587" duration="11519000" />
+-      <workItem from="1681919990996" duration="2841000" />
++      <workItem from="1681919990996" duration="3525000" />
++      <workItem from="1681928296616" duration="24000" />
+     </task>
+     <task id="LOCAL-00001" summary="default">
+       <created>1681215325579</created>
+@@ -126,7 +123,14 @@
+       <option name="project" value="LOCAL" />
+       <updated>1681748535296</updated>
+     </task>
+-    <option name="localTasksCounter" value="9" />
++    <task id="LOCAL-00009" summary="hw-3 react-js">
++      <created>1681926417182</created>
++      <option name="number" value="00009" />
++      <option name="presentableId" value="LOCAL-00009" />
++      <option name="project" value="LOCAL" />
++      <updated>1681926417182</updated>
++    </task>
++    <option name="localTasksCounter" value="10" />
+     <servers />
+   </component>
+   <component name="TypeScriptGeneratedFilesManager">
+@@ -136,6 +140,7 @@
+     <MESSAGE value="default" />
+     <MESSAGE value="hw-1 done" />
+     <MESSAGE value="hw-2 done" />
+-    <option name="LAST_COMMIT_MESSAGE" value="hw-2 done" />
++    <MESSAGE value="hw-3 react-js" />
++    <option name="LAST_COMMIT_MESSAGE" value="hw-3 react-js" />
+   </component>
+ </project>
+\ No newline at end of file

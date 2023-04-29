@@ -1,0 +1,40 @@
+body {
+    padding-top: 50px;
+}
+
+.form__wrapper {
+    display: flex;
+    justify-content: center;
+    column-gap: 50px;
+}
+
+.form__block {
+    display: flex;
+    column-gap: 20px;
+    background-color: cornflowerblue;
+    padding: 30px;
+    border-radius: 10px;
+    color: white;
+    margin-bottom: 20px;
+}
+
+.output {
+    display: flex;
+    justify-content: center;
+    column-gap: 200px;
+}
+
+.output__left, .output__right {
+    width: 300px;
+}
+
+.item {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: cornflowerblue;
+    padding: 15px;
+    column-gap: 20px;
+    color: white;
+    margin-bottom: 20px;
+}

@@ -1,8 +1,14 @@
+import Comments from "./components/Comments";
+import Posts from "./components/Posts";
+import CatDog from "./components/CatDog";
 
 function App() {
   return (
-    <div className="App">
-    </div>
+      <>
+        {/*<Comments/>*/}
+        {/*<Posts/>*/}
+        <CatDog/>
+      </>
   );
 }
 

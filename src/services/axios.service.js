@@ -1,9 +1,9 @@
 import axios from "axios";
-import {basePlaceholderURL} from "../constans/urls"; //add cars later
+import {basePlaceholderURL, baseCarsURL} from "../constans/urls";
 const axiosPlaceholderService = axios.create({baseURL: basePlaceholderURL});
-// const axiosCarsService = axios.create({baseURL: baseCarsURL});
+const axiosCarsService = axios.create({baseURL: baseCarsURL});
 
 export {
     axiosPlaceholderService,
-    // axiosCarsService
+    axiosCarsService
 }
